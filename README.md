@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Gowri Sankhar
 
-<!--
-**GowriSankhar04/GowriSankhar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Bioinformatics | 💻 Machine Learning Engineer | 📊 Applied Data Scientist  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+- 🧠 Interested in AI for **healthcare, neuroscience, and aerospace**  
+- 📱 Published Android apps on [Google Play Store](your-app-link)  
+- 📊 Working on ML projects in **disease classification, EEG signals, burst pressure prediction**  
+- 🌍 Planning for **Master’s in Germany (Fall 2026)**  
+
+---
+
+## 🔹 Featured Projects
+- 🐍 [Snake Disease Classification using ML](https://github.com/GowriSankhar04/Indian-Snake-species-classification)  
+- 🫁 [Lung Disease Classification App](https://github.com/GowriSankhar04/Lung-Disease-Classification)  
+---
+
+## 🔹 Skills & Tools
+`Python` | `TensorFlow` | `Keras` | `Scikit-learn` | `ONNX` | `Kotlin` | `Flask` |  
+`Android Studio` | `Chaquopy` | `Git` | `SQL` | `MATLAB` | `ANSYS Fluent` | `AstroPy`  
+
+---
+
+## 🔹 Connect with Me
+💼 [LinkedIn](https://www.linkedin.com/in/gowri-sankhar-s-1b1401286/)  
+📄 [CV / Resume](https://docs.google.com/document/d/1rqZ1tiXu_3h8kbRuWovFu09ya8ZtjnIM7NTxRurHsFQ/edit?usp=sharing)  
+📫 Email: gowrisankhar2026@gmail.com  
