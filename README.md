@@ -5,10 +5,9 @@
 ---
 
 ## 🔹 About Me
-- 🧠 Interested in AI for **healthcare, neuroscience, and aerospace**  
+- 🧠 Interested in AI for **Data Science, AI/ML, Health care**  
 - 📱 Published Android apps on [Google Play Store](your-app-link)  
-- 📊 Working on ML projects in **disease classification, EEG signals, burst pressure prediction**  
-- 🌍 Planning for **Master’s in Germany (Fall 2026)**  
+- 📊 Working on ML projects in **snake species classificarion and disease classification**  
 
 ---
 
