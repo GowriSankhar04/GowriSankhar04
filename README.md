@@ -17,8 +17,8 @@
 ---
 
 ## 🔹 Skills & Tools
-`Python` | `TensorFlow` | `Keras` | `Scikit-learn` | `ONNX` | `Kotlin` | `Flask` |  
-`Android Studio` | `Chaquopy` | `Git` | `SQL` | `MATLAB` | `ANSYS Fluent` | `AstroPy`  
+`Python` | `TensorFlow` | `Keras` | `Scikit-learn` | `Kotlin` |`HTML`|`CSS`| `Flask` |  
+`Android Studio` | `SQL` 
 
 ---
 
