@@ -18,7 +18,7 @@
 
 ## 🔹 Skills & Tools
 `Python` | `TensorFlow` | `Keras` | `Scikit-learn` | `Kotlin` | `HTML` | `CSS` | `Flask` |  
-`Android Studio` | `SQL` 
+`Android Studio` | `SQL` | `Linux`
 
 ---
 
