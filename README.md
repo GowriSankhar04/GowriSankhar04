@@ -27,3 +27,10 @@
 💼 [LinkedIn](https://www.linkedin.com/in/gowri-sankhar-s-1b1401286/)  
 📄 [CV / Resume](https://docs.google.com/document/d/1rqZ1tiXu_3h8kbRuWovFu09ya8ZtjnIM7NTxRurHsFQ/edit?usp=sharing)  
 📫 Email: gowrisankhar2026@gmail.com  
+
+---
+
+## 🔹 Fun Stats
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
