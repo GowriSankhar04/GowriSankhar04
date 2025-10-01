@@ -7,7 +7,7 @@
 ## 🔹 About Me
 - Interested in AI for **Data Science, AI/ML, Health care**  
 - Published Android apps on **play store** (closed testing)  
-- Working on ML projects in **Snake species classificarion and Disease classification**  
+- Worked on ML projects in **Snake species classificarion and Disease classification**  
 
 ---
 
