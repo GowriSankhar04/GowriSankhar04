@@ -12,7 +12,7 @@
 ---
 
 ## 🔹 Featured Projects
-- [Snake Disease Classification using ML](https://github.com/GowriSankhar04/Indian-Snake-species-classification)  
+- [Indian Snake Species Classification App](https://github.com/GowriSankhar04/Indian-Snake-species-classification)  
 - [Lung Disease Classification App](https://github.com/GowriSankhar04/Lung-Disease-Classification)  
 ---
 
