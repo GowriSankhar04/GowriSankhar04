@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gowri Sankhar S</h1>
+<h1 align="center">Hi, I'm Gowri Sankhar S</h1>
 <h3 align="center">AI/ML Engineer & Applied Data Scientist | B.Tech Bioinformatics</h3>
 
 <p align="center">
