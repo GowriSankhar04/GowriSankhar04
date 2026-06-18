@@ -36,7 +36,7 @@ ResNet50-based deep learning model for classifying Indian snake species from ima
 #### 🫁 [Lung Disease Classification App](https://github.com/GowriSankhar04/Lung-Disease-Classification)
 Ensemble model (MLP + Random Forest) classifying respiratory diseases from lung sound recordings, using 146 handcrafted audio features extracted with Librosa. Served via a Flask REST API and integrated into a Kotlin Android app — **live on the [Google Play Store](https://play.google.com/store/apps/details?id=com.gs.safebreath)**.
 
-#### 🧠 [NeuroAge — Brain Age Gap Estimation]([https://github.com/GowriSankhar04/REPLACE-WITH-NEUROAGE-REPO](https://github.com/GowriSankhar04/Brain-Age-Gap-Technology-and-Alzheimer-s-Diagnosis))
+#### 🧠 [NeuroAge — Brain Age Gap Estimation]([https://github.com/GowriSankhar04/Brain-Age-Gap-Technology-and-Alzheimer-s-Diagnosis])
 3D CNN-based brain age prediction from structural MRI (ADNI dataset), using a multi-stage pipeline (AD classification pretraining → brain age regression → Brain Age Gap analysis) to study neurodegeneration across CN, MCI, and AD populations. Deployed via Hugging Face with a companion Android app.
 
 ---
