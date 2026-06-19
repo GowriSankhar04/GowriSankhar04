@@ -14,6 +14,7 @@
 - 📱 Built and deployed end-to-end ML systems — including production Android apps live on the Google Play Store
 - ☁️ Comfortable across the full pipeline: data preprocessing → model training → Hugging Face / Flask deployment → mobile integration
 - 🧠 Currently exploring brain age estimation and neuroimaging biomarkers for Alzheimer's research
+- 🌐 Portfolio: [Gowri Sankhar Saravanan](https://gowrisankhar04.github.io/)
 - 📫 Reach me at **gowrisankhar2026@gmail.com**
 
 ---
