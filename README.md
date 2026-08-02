@@ -92,4 +92,4 @@ Ensemble model (MLP + Random Forest) classifying respiratory diseases from lung 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowri-sankhar-s-1b1401286/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gowrisankhar2026@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-CV-blue?style=flat)](https://docs.google.com/document/d/1dv5gn8FVVyHpRbDNt6LX_Uwqy0ObE4n-U_08fY6C1qQ/edit?tab=t.0#heading=h.yn0ujp85g9y5)
+[![Resume](https://img.shields.io/badge/Resume-CV-blue?style=flat)](https://github.com/GowriSankhar04/Resume/blob/main/Gowri_Sankhar_Saravanan_Resume.pdf)
