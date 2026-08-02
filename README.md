@@ -65,20 +65,7 @@ Ensemble model (MLP + Random Forest) classifying respiratory diseases from lung 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GowriSankhar04&show_icons=true&theme=default&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowriSankhar04&layout=compact&theme=default" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowriSankhar04&theme=default" alt="GitHub streak stats" />
-</p>
-
----
 
 ### 📜 Certifications
 
@@ -92,4 +79,4 @@ Ensemble model (MLP + Random Forest) classifying respiratory diseases from lung 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowri-sankhar-s-1b1401286/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gowrisankhar2026@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-CV-blue?style=flat)](https://github.com/GowriSankhar04/GowriSankhar04.github.io/blob/main/assets/Gowri_Sankhar_Saravanan_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-CV-blue?style=flat)](https://gowrisankhar04.github.io/assets/Gowri_Sankhar_Saravanan_Resume.pdf)
